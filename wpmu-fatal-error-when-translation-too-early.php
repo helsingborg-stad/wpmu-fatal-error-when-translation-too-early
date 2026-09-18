@@ -3,7 +3,7 @@
 /**
  * Plugin Name: wpmu-fatal-error-when-translation-too-early
  * Description: Throws a fatal error when WordPress detects translations loading too early.
- * Version: 0.0.1
+ * Version: 0.1.0
  * Author:      Helsingborgs stad
  */
 
